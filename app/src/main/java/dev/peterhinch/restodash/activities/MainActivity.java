@@ -1,8 +1,10 @@
-package dev.peterhinch.restodash;
+package dev.peterhinch.restodash.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import dev.peterhinch.restodash.R;
 
 public class MainActivity extends AppCompatActivity {
 

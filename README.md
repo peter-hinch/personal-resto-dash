@@ -6,7 +6,7 @@
 
 ## Intent
 
-To create an Android app that receives data from additional sensors on the car's engine and display that data in real time, eliminating the need for any additional physical gauges in the car. The data will be saved to a database on the Android device for later viewing / export.
+To create an Android app that receives data from additional sensors on the car's engine and display that data in real time, removing the need for additional physical gauges in the car. The data will be saved to a database on the Android device for later viewing / export.
 
 ## Methodology
 

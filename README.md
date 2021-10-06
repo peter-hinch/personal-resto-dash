@@ -19,7 +19,7 @@ My car dates before the inclusion of on board diagnostics like OBD/OBDII, so the
 collection of this data must be done manually.
 2. A Bluetooth module attached to the Arduino board broadcasts this data to an
 Android device running the *Resto Dash* app.
-Link - [Arduino Recipe](https://github.com/peter-hinch/personal-resto-dash/wiki/Arduino-Recipe)
+Link - [Arduino Recipe](https://github.com/peter-hinch/personal-resto-dash/blob/main/app/src/main/assets/RestoDash.ino)
 3. *Resto Dash* app processes the data, displaying it on screen as well as saving
 it for later viewing / export.
 
